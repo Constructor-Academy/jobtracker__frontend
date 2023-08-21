@@ -1,0 +1,15 @@
+{
+    "admins": "Your Administrators",
+    "no_admins": "There are no administrators for your account",
+    "add_admin": "Add Admin",
+    "invite_admin": "Invite Admin",
+    "notify_admin": "Notify your admin about your success",
+    "send_email": "Send E-Mail",
+    "send_invite": "Send Invite",
+    "found_job": "Found a Job",
+    "profile": "Profile",
+    "coming_soon": "Coming soon",
+    "email_placeholder": "Enter E-Mail ...",
+    "administred_users": "Administered Users",
+    "no_administred_users": "You have no users to administer"
+}

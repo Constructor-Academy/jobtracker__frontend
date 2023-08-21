@@ -1,0 +1,16 @@
+{
+    "registration": {
+        "title": "Thanks for your registration.",
+        "message": "An email is on the way to <span>{{email}}</span> with the link to complete your account. In some cases it can end up in your spam folder, please double check in case you didn't receive it."
+    },
+    "registration_validation": {
+        "title": "Thank you for completing your registration."
+    },
+    "password_reset": {
+        "title": "Password Reset",
+        "message": "An email is on the way to <span>{{email}}</span> with the link to complete the password reset. In some cases it can end up in your spam folder, please double check in case you didn't receive it."
+    },
+    "password_reset_validation": {
+        "title": "Your Password has been reset. Please Log In."
+    }
+}

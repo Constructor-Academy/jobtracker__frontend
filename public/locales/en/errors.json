@@ -1,0 +1,19 @@
+{
+    "email": {
+        "invalid": "This E-Mail is invalid"
+    },
+    "url": {
+        "invalid": "This URL is invalid"
+    },
+    "password": {
+        "dont_match": "Passwords do not match"
+    },
+    "general": {
+        "all_required": "Input is required for all the fields",
+        "required": "This field is required",
+        "unknown": "Ups, Something went wrong. Please use our feedback form (bottom left) to report a bug."
+    },
+    "upload": {
+        "max_size": "The file you chose is too large.\nPlease choose a file of max. {{size}}."
+    }
+}

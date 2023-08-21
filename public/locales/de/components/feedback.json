@@ -1,0 +1,13 @@
+{
+    "title": "Rückmeldung abgeben",
+    "subject": {
+        "title": "Betreff",
+        "placeholder": "Gib einen Betreff für dein Feedback ein..."
+    },
+    "comments": {
+        "title": "Kommentare",
+        "placeholder": "Bitte gib deine Kommentare so detailliert wie möglich ein...",
+        "required": "Bitte füg einen Kommentar hinzu"
+    },
+    "success": "Danke! Dein Feedback wurde gesendet."
+}

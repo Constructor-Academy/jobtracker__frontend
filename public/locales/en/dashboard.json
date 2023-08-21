@@ -1,0 +1,63 @@
+{
+    "dashboard": "Dashboard",
+    "hi": "Hi",
+    "columns": {
+        "wishlist": "Wishlist",
+        "applied": "Applied",
+        "interview": "Interview",
+        "offered": "Offered",
+        "accepted": "Accepted",
+        "rejected": "Rejected"
+    },
+    "user_types": {
+        "admin": "Admin",
+        "jobseeker": "Jobseeker"
+    },
+    "current_dashboard": "Current Dashboard",
+    "errors": {
+        "url": "The URL field is mandatory.",
+        "title": "The Title field is mandatory.",
+        "company": "The Company field is mandatory."
+    },
+    "jobs": {
+        "new": "+ New Job",
+        "create": "Add New Job",
+        "edit": "Edit Job",
+        "industries": {
+            "finance": "Finance",
+            "eudcation": "Education and Training",
+            "business_admin": "Business Administration",
+            "marketing": "Marketing and Sales",
+            "health": "Health Science",
+            "tech": "Technology",
+            "others": "Others"
+        },
+        "fields": {
+            "url": "URL",
+            "url_label": "Url *",
+            "url_placeholder": "Enter Job Link",
+            "title_label": "Title *",
+            "title_placeholder": "Enter position ...",
+            "company": "Company",
+            "company_label": "Company *",
+            "company_placeholder": "Company Name",
+            "contact_label": "Contact",
+            "contact_placeholder": "Contact Name",
+            "industry_label": "Industry",
+            "industry_placeholder": "Others",
+            "description_label": "Description",
+            "description_placeholder": "Description",
+            "notes_label": "Notes",
+            "notes_placeholder": "Notes"
+        },
+        "buttons": {
+            "cancel": "Cancel",
+            "add": "Add Job",
+            "edit": "Edit Job",
+            "delete": "Delete Job",
+            "update": "Update"
+        },
+        "added_on": "Added",
+        "cover_letter": "Cover Letter"
+    }
+}

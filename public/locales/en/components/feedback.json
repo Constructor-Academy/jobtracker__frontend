@@ -1,0 +1,13 @@
+{
+    "title": "Give Feedback",
+    "subject": {
+        "title": "Subject",
+        "placeholder": "Enter a subject for your feedback..."
+    },
+    "comments": {
+        "title": "Comments",
+        "placeholder": "Please enter your comments as detailed as possible...",
+        "required": "Sorry. Comments can not be empty"
+    },
+    "success": "Thanks! Your feedback has been sent."
+}

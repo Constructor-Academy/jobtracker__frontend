@@ -1,0 +1,57 @@
+{
+    "title": "Reports",
+    "select_dates": "Select Dates",
+    "reports_from": "Currently Watching Reports from",
+    "interview_ratio": "Interviews Ratio",
+    "this_week": "this week",
+    "fav_industry": "Favorite Industry",
+    "jobs": {
+        "total": "Total Jobs",
+        "all_stages": "In All Stages",
+        "weekly": "Jobs Added Weekly",
+        "overview": {
+            "title": "Jobs Overview",
+            "position": "Position",
+            "company": "Company",
+            "industry": "Industry",
+            "progress": "Progress",
+            "status": "Current Status"
+        },
+        "number": "Number of Jobs",
+        "of_jobs": "of Jobs",
+        "stage": "Stage",
+        "number_per_stage": "Number of Jobs per Stage",
+        "applications": "Jobs Applications Activity - Last Month",
+        "description": "Job Description",
+        "no_jobs": "You did not add any jobs yet",
+        "status": {
+            "wishlist": "WH",
+            "applied": "AP",
+            "interview": "IN",
+            "offered": "OF",
+            "accepted": "AC",
+            "rejected": "RJ"
+        }
+    },
+    "date": "Date",
+    "start_date": "Start date",
+    "end_date": "End date",
+    "rows_per_page": "Rows per page",
+    "no_activity": "There is no activity yet",
+    "table": {
+        "columns": {
+            "position": "Position",
+            "company": "Company",
+            "industry": "Industry",
+            "progress": "Progress",
+            "status": "Current Status",
+            "link": "Link"
+        },
+        "rows_per_page": "Rows per page"
+    },
+    "menu": {
+        "download_csv": "Download CSV",
+        "coming_soon": "Coming soon",
+        "settings": "Settings"
+    }
+}

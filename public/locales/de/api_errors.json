@@ -1,0 +1,6 @@
+{
+    "No active account found with the given credentials": "Kein aktives Konto mit den angegebenen Anmeldedaten gefunden",
+    "User does not exist!": "Benutzer existiert nicht",
+    "This field may not be blank": "Dieses Feld ist obligatorisch",
+    "Passwords do not match!": "Die Passwörter sind nicht identisch"
+}

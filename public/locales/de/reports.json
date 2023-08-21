@@ -1,0 +1,57 @@
+{
+    "title": "Berichte",
+    "select_dates": "Daten auswählen",
+    "reports_from": "Aktuell angezeigte Berichte von",
+    "interview_ratio": "Interview-Verhältnis",
+    "this_week": "diese Woche",
+    "fav_industry": "Bevorzugte Industrie",
+    "jobs": {
+        "total": "Jobs insgesamt",
+        "all_stages": "In allen Phasen",
+        "weekly": "Jobs wöchentlich hinzugefügt",
+        "overview": {
+            "title": "Übersicht Jobs",
+            "position": "Position",
+            "company": "Unternehmen",
+            "industry": "Industrie",
+            "progress": "Fortschritt",
+            "status": "Aktueller Status"
+        },
+        "number": "Anzahl Jobs",
+        "of_jobs": "Jobs",
+        "stage": "Phase",
+        "number_per_stage": "Anzahl der Arbeitsplätze pro Phase",
+        "applications": "Aktivität Stellenbewerbungen - Letzter Monat",
+        "description": "Job Beschreibung",
+        "no_jobs": "Du hast noch keine Jobs hinzugefügt",
+        "status": {
+            "wishlist": "WL",
+            "applied": "BE",
+            "interview": "VG",
+            "offered": "AN",
+            "accepted": "AK",
+            "rejected": "AB"
+        }
+    },
+    "date": "Datum",
+    "start_date": "Startdatum",
+    "end_date": "Enddatum",
+    "rows_per_page": "Zeilen per Seite",
+    "no_activity": "Es ist noch keine Aktivität vorhanden",
+    "table": {
+        "columns": {
+            "position": "Stelle",
+            "company": "Unternehmen",
+            "industry": "Industrie",
+            "progress": "Fortschritt",
+            "status": "Status",
+            "link": "Link"
+        },
+        "rows_per_page": "Zeilen pro Seite"
+    },
+    "menu": {
+        "download_csv": "CSV speichern",
+        "coming_soon": "Bald verfügbar",
+        "settings": "Einstellungen"
+    }
+}

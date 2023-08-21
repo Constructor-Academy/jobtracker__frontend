@@ -1,0 +1,18 @@
+{
+    "occupation": "Vertragsart",
+    "published": "Veröffentlicht am",
+    "tracked": "Verfolgt",
+    "more_info": "Damit wir dir gute Stellen vorschlagen können, benötigen wir einige weitere Informationen.",
+    "complete_profile": "Bitte ergänze dein Profil mit deinen Fähigkeiten, Berufserfahrungen sowie deinen Ausbildungen. Damit können wir dir die besten Ergebnisse liefern.",
+    "complete_btn": "Profil-Details hinzufügen",
+    "upload": "Alternativ kannst du auch einen Lebenslauf hochladen und erhältst Ergebnisse auf der Grundlage dieses Dokuments.",
+    "or": "oder",
+    "select_cv": "Lebenslauf auswählen",
+    "job_type": {
+        "full_time": "Vollzeit",
+        "part_time": "Teilzeit",
+        "contract": "Auftragsarbeit"
+    },
+    "no_new_jobs": "Es konnten keine Jobs gefunden werden, die deinem Profil entsprechen und nicht älter als 30 Tage alt sind.",
+    "backend_error": "Es ist ein Fehler aufgetreten. Bitte aktualisiere die Seite und versuche es erneut."
+}

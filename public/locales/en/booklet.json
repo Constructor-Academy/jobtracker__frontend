@@ -1,0 +1,14 @@
+{
+    "title": "Students Booklet Generator",
+    "download_btn": "Download Booklet",
+    "form": {
+        "title": {
+            "label": "Bootcamp title",
+            "placeholder": "F.ex: 'Full-Stack'"
+        },
+        "emails": {
+            "label": "Email addresses (separated with comas)",
+            "placeholder": "F.ex: 'student@email.com, alumni@email.com'"
+        }
+    }
+}

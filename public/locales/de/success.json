@@ -1,0 +1,16 @@
+{
+    "registration": {
+        "title": "Vielen Dank für die Registrierung.",
+        "message": "Eine E-Mail ist auf dem Weg zu <span>{{email}}</span> mit dem Link zum Vervollständigen deines Kontos. In manchen Fällen kann sie in deinem Spam-Ordner landen. Bitte überprüfe das noch einmal, falls du sie nicht erhalten hast."
+    },
+    "registration_validation": {
+        "title": "Vielen Dank, dass du deine Registrierung abgeschlossen hast."
+    },
+    "password_reset": {
+        "title": "Password Zurücksetzen",
+        "message": "Eine E-Mail ist auf dem Weg zu <span>{{email}}</span> mit dem Link um dein Passwort zurückzusetzen. In manchen Fällen kann sie in deinem Spam-Ordner landen. Bitte überprüfe das noch einmal, falls du sie nicht erhalten hast."
+    },
+    "password_reset_validation": {
+        "title": "Dein Passwort wurde zurückgesetzt. Bitte melde dich an."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "main": {
+        "title": {
+            "part1": "Organize and",
+            "part2": "follow",
+            "part3": "your job applications"
+        },
+        "content": "Never lose track of a position you are interested in or have\n                    already applied for and monitor the current state of all\n                    your applications at a glance."
+    },
+    "login": {
+        "forgot_pwd": "Forgot password?"
+    },
+    "footer": {
+        "contact": "Contact",
+        "legal_notice": "Legal Notice",
+        "terms_and_conds": "Terms and Conditions",
+        "privacy": "Privacy",
+        "rights_reserved": "All rights reserved."
+    },
+    "cookie": {
+        "text": "By clicking Accept you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
+        "button": "Accept"
+    }
+}

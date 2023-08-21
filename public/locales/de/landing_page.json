@@ -1,0 +1,24 @@
+{
+    "main": {
+        "title": {
+            "part1": "Organisiere und",
+            "part2": "verfolge",
+            "part3": "deine Bewerbungen"
+        },
+        "content": "Verliere nie den Überblick über eine Stelle, für die du dich interessierst oder auf die du dich bereits beworben hast, und verfolge auf einen Blick den aktuellen Stand all deiner Bewerbungen."
+    },
+    "login": {
+        "forgot_pwd": "Passwort vergessen?"
+    },
+    "footer": {
+        "contact": "Kontakt",
+        "legal_notice": "Rechtliche Hinweise",
+        "terms_and_conds": "Bedingungen und Konditionen",
+        "privacy": "Datenschtuz",
+        "rights_reserved": "Alle Rechte vorbehalten."
+    },
+    "cookie": {
+        "text": "Indem du auf Akzeptieren klickst, erklärst du dich mit der Speicherung von Cookies auf deinem Gerät einverstanden, um die Navigation auf der Website zu verbessern, die Nutzung der Website zu analysieren und unsere Marketingbemühungen zu unterstützen.",
+        "button": "Akzeptieren"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "admins": "Deine Administratoren",
+    "no_admins": "Es gibt keine Administratoren für dein Konto",
+    "add_admin": "Admin hinzufügen",
+    "invite_admin": "Admin einladen",
+    "notify_admin": "Benachrichtige deine Administratoren über deinen Erfolg",
+    "send_email": "E-Mail senden",
+    "send_invite": "Einladung senden",
+    "found_job": "Einen Job gefunden",
+    "profile": "Profil",
+    "coming_soon": "Demnächst verfügbar",
+    "email_placeholder": "E-Mail eintragen ...",
+    "administred_users": "Verwaltete Benutzer",
+    "no_administred_users": "Du hast keine Benutzer zu verwalten"
+}

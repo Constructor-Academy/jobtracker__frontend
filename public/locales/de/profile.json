@@ -1,0 +1,333 @@
+{
+    "name": "Profil",
+    "sections": {
+        "general": "Allgemein",
+        "skills": "Fähigkeiten",
+        "languages": "Sprachen",
+        "experiences": "Erfahrungen",
+        "educations": "Ausbildungen",
+        "contact": "Kontakt",
+        "personal": "Persönlich"
+    },
+    "shared": {
+        "start_date": "Startdatum",
+        "end_date": "Enddatum",
+        "present": "Gegenwärtig",
+        "country": "Land",
+        "city": "Stadt",
+        "website": "Webseite",
+        "description": "Beschreibung"
+    },
+    "header": {
+        "current_job": "Aktuelle Stelle",
+        "current_job_placeholder": "Deine aktuelle oder letzte berufliche Position",
+        "summary": "Zusammenfassung Profil",
+        "summary_placeholder": "Kurze Beschreibung deiner Person, was du suchst, usw..",
+        "job_search_area": {
+            "label": "Ort der Arbeitssuche",
+            "flexible": "Flexible",
+            "zurich": "Zürich",
+            "munich": "München",
+            "bremen": "Bremen",
+            "other": "Sonstige",
+            "placeholder": "Deinen bevorzugten Ort der Stellensuche..."
+        },
+        "skills": {
+            "lvl": {
+                "basic": {
+                    "name": "Basiswissen",
+                    "code": "B"
+                },
+                "intermediate": {
+                    "name": "Gute Kenntnisse",
+                    "code": "G"
+                },
+                "proficient": {
+                    "name": "Sehr gute Kenntnisse",
+                    "code": "SG"
+                }
+            },
+            "placeholder": "Neue Fähigkeit...",
+            "add": "Fähigkeiten hinzufügen"
+        },
+        "languages": {
+            "lvl": {
+                "native": {
+                    "name": "Muttersprache",
+                    "code": "M"
+                },
+                "proficient": {
+                    "name": "Sehr gute Kenntnisse",
+                    "code": "SG"
+                },
+                "intermediate": {
+                    "name": "Gute Kenntnisse",
+                    "code": "G"
+                },
+                "basic": {
+                    "name": "Basiswissen",
+                    "code": "B"
+                }
+            },
+            "placeholder": "Neue Sprache...",
+            "add": "Sprache hinzufügen"
+        },
+        "avatar": {
+            "alt": "Avatar Benutzer",
+            "drop": "Bild hier loslassen",
+            "click_or_drop": "Klicken oder Bild hier hinziehen"
+        },
+        "edit": "Generelle Infos bearbeiten",
+        "errors": {
+            "skill_exists": "Diese Fähigkeit existiert bereits",
+            "language_exists": "Diese Sprache existiert bereits"
+        }
+    },
+    "completeness": {
+        "title": "Vollständigkeit deines Profils",
+        "sections": {
+            "education": "Ausbildungen",
+            "experience": "Erfahrungen"
+        }
+    },
+    "employment": {
+        "title": "Berufliche Laufbahn",
+        "new_job": "Neue Stelle",
+        "job_title": {
+            "label": "Berufsbezeichnung",
+            "placeholder": "Junior-Entwickler"
+        },
+        "employer": {
+            "label": "Arbeitgeber",
+            "placeholder": "Name des Unternehmens"
+        },
+        "country_placeholder": "Land der Berufstätigkeit",
+        "description_placeholder": "Eine kurze Beschreibung der Position",
+        "edit": "Stelle bearbeiten"
+    },
+    "education": {
+        "title": "Ausbildung",
+        "new_qualification": "Neue Qualifikation",
+        "qualification": {
+            "label": "Titel",
+            "placeholder": "z.B. BA in Finanzen"
+        },
+        "institute": {
+            "label": "Institut",
+            "placeholder": "Name des Instituts oder der Schule"
+        },
+        "country_placeholder": "Land des Instituts oder der Schule",
+        "description_placeholder": "Eine kurze Beschreibung der Qualifikation",
+        "edit": "Qualifikation bearbeiten"
+    },
+    "category": {
+        "title": "Neue Kategorie",
+        "name": "Name",
+        "placeholder": "z.B. Publikationen",
+        "add_new": "Neue Kategorie hinzufügen",
+        "edit": "Kategorie bearbeiten"
+    },
+    "event": {
+        "new": "Neu:",
+        "title": "Titel",
+        "edit": "Event bearbeiten",
+        "where": "Institution oder Ort",
+        "select": "Auswählen...",
+        "link": {
+            "label": "Link",
+            "placeholder": "https://www.beispiel.com"
+        }
+    },
+    "cv_gen": {
+        "title": "Lebenslauf generieren",
+        "content": {
+            "title": "Inhalt",
+            "to_include": "Inhalt auswählen",
+            "personal_info": "Persönliche Informationen",
+            "contact_info": "Kontakt Informationen",
+            "contact_info_short": "Kontakt",
+            "photo": "Foto",
+            "dob": "Geburtsdatum",
+            "nationality": "Staatsangehörigkeit",
+            "permit": "Aufenthaltsbewilligung",
+            "permit_if": "Aufenthaltsbewilligung (falls zutreffend)",
+            "skill_info": "Informationen zu den Fähigkeiten",
+            "experience": "Erfahrung",
+            "skills": "Fähigkeiten",
+            "languages": "Sprachen",
+            "education": "Ausbildung",
+            "github_profile": "Github Profil",
+            "linkedin_profile": "Linkedin Profil"
+        },
+        "templates": {
+            "standard_header": "1 - Standard mit Header",
+            "standard_two_cols": "2 - Standard zweispaltig",
+            "minimal": "3 - Minimal",
+            "asp_minimal": "4 - Anstrebend minimal",
+            "two_cols_center": "5 - Zweispaltig zentriert"
+        },
+        "show_proficiency": "Kenntnissniveau anzeigen"
+    },
+    "letter_gen": {
+        "title": "Anschreiben erstellen",
+        "job_select": {
+            "title": "Job auswählen",
+            "jobs": "Job zur Erstellung eines Anschreibens"
+        },
+        "company": {
+            "step": "Unternehmen",
+            "title": "Unternehmensdetails",
+            "name": {
+                "label": "Name des Unternehmens",
+                "placeholder": "z.B. Google"
+            },
+            "street": {
+                "label": "Strasse",
+                "placeholder": "z.B. Langstrasse 4"
+            },
+            "zip": {
+                "label": "PLZ",
+                "placeholder": "z.B. 8000"
+            },
+            "city": {
+                "label": "Stadt",
+                "placeholder": "z.B. Zurich"
+            }
+        },
+        "contact": {
+            "step": "Kontakt",
+            "title": "Kontaktdetails",
+            "name": {
+                "label": "Kontaktname",
+                "placeholder": "z.B. John Doe"
+            },
+            "position": {
+                "label": "Kontakttitel",
+                "placeholder": "z.B. HR Manager"
+            },
+            "email": {
+                "label": "Kontaktemail",
+                "placeholder": "z.B. hallo@email.com"
+            },
+            "phone": {
+                "label": "Kontaktnummer",
+                "placeholder": "z.B. +41791231212"
+            }
+        },
+        "coverletter": {
+            "step": "Anschreiben",
+            "title": "Details Anschreiben",
+            "content_title": "Titel",
+            "salutation": "Begrüssung",
+            "impressed": "Was beeindruckt dich am meisten an {{company_name}}?",
+            "contribution": "Was kannst du zu {{company_name}} beitragen?",
+            "skills": {
+                "title": "Titel für den Abschnitt Qualifikationen (unten)",
+                "desc": "Schreib über spezifische Fähigkeiten (z.B. {{skills}})",
+                "edu": "Schreib über Ausbildungen, in denen du diese Fähigkeiten erworben hast"
+            },
+            "experience": {
+                "title": "Titel für Abschnitt Erfahrung und Interessen (unten)",
+                "desc": "Erfahrungen und Interessen, die du im Bereich von {{company_name}} hast"
+            },
+            "professional": {
+                "title": "Titel für den Abschnitt Berufserfahrung (unten)",
+                "desc": "Schreib über berufliche Erfahrungen, die für die Stelle relevant sind"
+            },
+            "closing": "Schliessender Absatz",
+            "template": {
+                "to": "Empfänger",
+                "from": "Absender",
+                "application": "Bewerbung für Stelle als {{job_title}} bei {{company_name}}",
+                "salutation": "Sehr geehrte Frau/Sehr geehrter Herr {{contact_name}}",
+                "impressed": "Als ich auf Ihre offene {{job_title}} Stelle stiess, nutzte ich die Gelegenheit, um mehr über {{company_name}} zu erfahren. Je mehr ich las, desto mehr war ich von Ihrem tief technologiebewussten Geist beeindruckt! Das führte auch dazu, dass ich neugierig auf Ihre Suchmaschine 'bing' wurde, die meiner Meinung nach ein Meisterstück einer Deep-Learning-Anwendung ist.",
+                "intro_text_list": "Nachfolgend sind die wichtigsten Eigenschaften aufgeführt, die mit den Anforderungen der Stelle übereinstimmen:",
+                "skills_title": "Technische Fähigkeiten",
+                "skills_content": "Ich verfüge über gute Kenntnisse in den geforderten Bereichen, einschliesslich {{skills}}.",
+                "main_education": "Ich habe vor kurzem einen intensiven Programmierkurs an der Constructor Learning in Zürich absolviert, der es mir ermöglichte, diese Themen gut zu verstehen.",
+                "experiences_sector_title": "Relevante Branchenkenntnisse",
+                "experiences_sector_content": "Im Rahmen meines Abschlussprojekts an der Constructor Learning habe ich zusammen mit anderen Studenten einen Prototyp entwickelt, der es Immobilienverwaltern ermöglicht, den gesamten Prozess der Immobilienverwaltung zu automatisieren. Die Ergebnisse unserer Arbeit sehen Sie hier: https://learning.constructor.org/",
+                "insert_job": "Stellenbezeichnung hier einfügen",
+                "experiences_personal_title": "Berufserfahrung",
+                "experiences_personal_content": "In meinem letzten Job als {{last_job}} habe ich mir profunde Kenntnisse in der Geschäfts- und Strategieentwicklung sowie interkulturelle Kommunikationsfähigkeiten angeeignet. Ausserdem konnte ich mein breites Business-Netzwerk ausbauen, das ich mir in früheren Jobs aufgebaut hatte.",
+                "greeting": "Ich hoffe, dass alle oben genannten Punkte für Sie und die betreffende Stelle von Nutzen sein werden. Ich freue mich darauf, den bestmöglichen Beitrag für {{company_name}} zu leisten und mehr über Sie und 'bing' zu erfahren. In der Anlage finden Sie meinen Lebenslauf zur Durchsicht. Vielen Dank im Voraus für Ihre Zeit und Berücksichtigung.\n\nMit freundlichen Grüssen,"
+            }
+        },
+        "signature": {
+            "step": "Unterschrift",
+            "title": "Unterschrift",
+            "draw": "Eine neue Unterschrift zeichnen",
+            "upload": "Vorhandene Unterschrift hochladen",
+            "description": "Unterschrift (mit der Maus zeichnen)",
+            "clear_canvas": "Unterschrift löschen",
+            "drop": "Bild hier loslassen",
+            "click_or_drop": "Hier klicken oder Bild loslassen und auf 'Weiter' klicken!",
+            "clear_img": "Bild entfernen"
+        },
+        "templates": {
+            "elegant_graphics": "1 - Elegant mit Grafik",
+            "elegant_no_graphics": "2 - Elegant ohne Grafik",
+            "aspiring": "3 - Anstrebend"
+        }
+    },
+    "pdf_styling": {
+        "title": "Gestaltung",
+        "template": "Vorlage",
+        "main_color": "Hauptfarbe",
+        "contrast": "Kontrast",
+        "accent_color": "Akzentfarbe",
+        "font_color": "Schriftfarbe"
+    },
+    "pdf_gen": {
+        "download": "Herunterladen",
+        "loading": "Am Laden..."
+    },
+    "contact": {
+        "title": "Kontakt",
+        "edit": "Kontakt Details bearbeiten",
+        "email": "E-Mail",
+        "phone": {
+            "label": "Telefon",
+            "placeholder": "z.B. +41791231212"
+        },
+        "linkedin": {
+            "label": "LinkedIn",
+            "placeholder": "Profil-Link"
+        },
+        "github": {
+            "label": "GitHub",
+            "placeholder": "Profil-Link"
+        },
+        "address": "Adresse",
+        "street": {
+            "label": "Strasse",
+            "placeholder": "Strasse und Nummer"
+        },
+        "zip": {
+            "label": "PLZ",
+            "placeholder": "Postleitzahl"
+        },
+        "errors": {
+            "phone_invalid": "ist nicht gültig - Bitte verwende das internationale Format: +41446526249"
+        }
+    },
+    "personal": {
+        "title": "Persönlich",
+        "edit": "Persönliche Informationen bearbeiten",
+        "dob": {
+            "label": "Geburtsdatum",
+            "placeholder": "tt/mm/jjjj"
+        },
+        "origin": "Herkunftsland",
+        "permit": "Bewilligung",
+        "permit_if": "Aufenthaltsbewilligung (falls zutreffend)"
+    },
+    "danger": {
+        "title": "Gefahrenzone",
+        "warning": "Achtung, diese Aktion ist nicht umkehrbar!",
+        "confirm": "Bist du sicher, dass du dein Konto löschen willst?",
+        "delete_acc": "Konto löschen"
+    },
+    "delete_confirmation": "Bist du sicher, dass du diesen Eintrag löschen willst?",
+    "templateX": "Application for {{job_title}} position at {{company_name}}"
+}

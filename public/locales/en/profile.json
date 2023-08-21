@@ -1,0 +1,328 @@
+{
+    "name": "Profile",
+    "sections": {
+        "general": "General",
+        "skills": "Skills",
+        "languages": "Languages",
+        "experiences": "Experiences",
+        "educations": "Educations",
+        "contact": "Contact",
+        "personal": "Personal"
+    },
+    "shared": {
+        "start_date": "Start date",
+        "end_date": "End date",
+        "present": "Present",
+        "country": "Country",
+        "city": "City",
+        "website": "Website",
+        "description": "Description"
+    },
+    "header": {
+        "current_job": "Current Position",
+        "current_job_placeholder": "Your current or last job position",
+        "summary": "Profile Summary",
+        "summary_placeholder": "\"Quick description of yourself, what you're looking for, etc...\"",
+        "job_search_area": {
+            "label": "Job search area",
+            "flexible": "Flexible",
+            "zurich": "Zurich",
+            "munich": "Munich",
+            "bremen": "Bremen",
+            "other": "Other",
+            "placeholder": "Your preferred job search area..."
+        },
+        "skills": {
+            "lvl": {
+                "basic": {
+                    "name": "Basic",
+                    "code": "BA"
+                },
+                "intermediate": {
+                    "name": "Intermediate",
+                    "code": "IM"
+                },
+                "proficient": {
+                    "name": "Proficient",
+                    "code": "PR"
+                }
+            },
+            "placeholder": "New skill...",
+            "add": "Add Skill"
+        },
+        "languages": {
+            "lvl": {
+                "native": {
+                    "name": "Native",
+                    "code": "NA"
+                },
+                "proficient": {
+                    "name": "Proficient",
+                    "code": "PR"
+                },
+                "intermediate": {
+                    "name": "Intermediate",
+                    "code": "IM"
+                },
+                "basic": {
+                    "name": "Basic",
+                    "code": "BA"
+                }
+            },
+            "placeholder": "New language...",
+            "add": "Add Language"
+        },
+        "avatar": {
+            "alt": "User avatar",
+            "drop": "Drop the picture here",
+            "click_or_drop": "Click or drop pic here"
+        },
+        "edit": "Edit Basic Info",
+        "errors": {
+            "skill_exists": "This skill already exists",
+            "language_exists": "This language already exists"
+        }
+    },
+    "completeness": {
+        "title": "Profile completeness"
+    },
+    "employment": {
+        "title": "Employment History",
+        "new_job": "New Job",
+        "job_title": {
+            "label": "Job Title",
+            "placeholder": "e.g. Junior Developer"
+        },
+        "employer": {
+            "label": "Employer",
+            "placeholder": "Company Name"
+        },
+        "country_placeholder": "Country of work experience",
+        "description_placeholder": "A brief description of the position",
+        "edit": "Edit Job"
+    },
+    "education": {
+        "title": "Education",
+        "new_qualification": "New Qualification",
+        "qualification": {
+            "label": "Title",
+            "placeholder": "e.g. BA in Finances"
+        },
+        "institute": {
+            "label": "Intitute",
+            "placeholder": "Name of the institute or school"
+        },
+        "country_placeholder": "Country of institution",
+        "description_placeholder": "A brief description of the qualification",
+        "edit": "Edit qualification"
+    },
+    "category": {
+        "title": "New Category",
+        "name": "Name",
+        "placeholder": "e.g. Publications",
+        "add_new": "Add New Category",
+        "edit": "Edit Category"
+    },
+    "event": {
+        "new": "New",
+        "title": "Title",
+        "edit": "Edit event",
+        "where": "Institution or Location",
+        "select": "Select...",
+        "link": {
+            "label": "Link",
+            "placeholder": "https://www.example.com"
+        }
+    },
+    "cv_gen": {
+        "title": "Generate CV",
+        "content": {
+            "title": "Content",
+            "to_include": "Select content to include",
+            "personal_info": "Personal Information",
+            "contact_info": "Contact Information",
+            "contact_info_short": "Contact",
+            "photo": "Photo",
+            "dob": "Date of birth",
+            "nationality": "Nationality",
+            "permit": "Permit",
+            "permit_if": "Residence permit (if applicable)",
+            "skill_info": "Skill information",
+            "experience": "Experience",
+            "skills": "Skills",
+            "languages": "Languages",
+            "education": "Education",
+            "github_profile": "Github profile",
+            "linkedin_profile": "Linkedin profile"
+        },
+        "templates": {
+            "standard_header": "1 - Standard with header",
+            "standard_two_cols": "2 - Standard two columns",
+            "minimal": "3 - Minimal",
+            "asp_minimal": "4 - Aspiring minimal",
+            "two_cols_center": "5 - Two columns centered"
+        },
+        "show_proficiency": "Show proficiency"
+    },
+    "letter_gen": {
+        "title": "Generate Cover Letter",
+        "job_select": {
+            "title": "Select Job",
+            "jobs": "Job to generate cover letter from"
+        },
+        "company": {
+            "step": "Company",
+            "title": "Company Details",
+            "name": {
+                "label": "Company name",
+                "placeholder": "e.g. Google"
+            },
+            "street": {
+                "label": "Street",
+                "placeholder": "e.g. Langstrasse 4"
+            },
+            "zip": {
+                "label": "ZIP Code",
+                "placeholder": "e.g. 8000"
+            },
+            "city": {
+                "label": "City",
+                "placeholder": "e.g. Zurich"
+            }
+        },
+        "contact": {
+            "step": "Contact",
+            "title": "Contact Details",
+            "name": {
+                "label": "Contact name",
+                "placeholder": "e.g. John Doe"
+            },
+            "position": {
+                "label": "Contact title",
+                "placeholder": "e.g. HR Manager"
+            },
+            "email": {
+                "label": "Contact email",
+                "placeholder": "e.g. hello@email.com"
+            },
+            "phone": {
+                "label": "Contact phone",
+                "placeholder": "e.g. +41791231212"
+            }
+        },
+        "coverletter": {
+            "step": "Coverletter",
+            "title": "Cover Letter Details",
+            "content_title": "Title",
+            "salutation": "Salutation",
+            "impressed": "What impresses you most about {{company_name}}?",
+            "contribution": "What you can contribute to {{company_name}}?",
+            "skills": {
+                "title": "Title for skills paragraph (below)",
+                "desc": "Write about specific skills (eg. {{skills}})",
+                "edu": "Write about educations where you acquired these skills"
+            },
+            "experience": {
+                "title": "Title for experience paragraph (below)",
+                "desc": "Experiences and interests you have in {{company_name}}'s field"
+            },
+            "professional": {
+                "title": "Title for professional experiences paragraph (below)",
+                "desc": "Write about professional experiences relevant for the job"
+            },
+            "closing": "Closing Paragraph",
+            "template": {
+                "to": "To",
+                "from": "From",
+                "application": "Application for {{job_title}} position at {{company_name}}",
+                "salutation": "Dear {{contact_name}}",
+                "impressed": "When I came across your open {{job_title}} position, I took the opportunity to find out more about {{company_name}}. The more I read, the more I became impressed with your deeply technology-aware spirit! It also led to my curiosity about your search engine 'bing', which I think is a master piece of a deep learning application.",
+                "intro_text_list": "The following are key attributes that match those demanded by the position:",
+                "skills_title": "Technical skills",
+                "skills_content": "I have a good level of knowlegde in the required fields, including {{skills}}.",
+                "main_education": "I recently completed an intensive programming course at Constructor Learning in Zurich, allowing me to get a good grasp of these topics.",
+                "experiences_sector_title": "Relevant industry knowledge",
+                "experiences_sector_content": "As part of my final project at Constructor Learning, together with fellow students I developed a prototype allowing property managers to automate the entire property management process. Please see the results of our work here: https://learning.constructor.org/",
+                "insert_job": "Insert job title here",
+                "experiences_personal_title": "Professional experience",
+                "experiences_personal_content": "In my last job as {{last_job}}, I acquired profound knowledge of business and strategy development, as well as intercultural communication skills. Furthermore, I was able to expand my wide business network that I had started building up in previous jobs.",
+                "greeting": "I hope that all of the above will be of benefit to you and the job in question. I look forward to making the best possible contributions to {{company_name}} and to learn more about you and 'bing'. Please find my CV attached for your review. Many thanks in advance for your time and consideration.\n\nBest regards,"
+            }
+        },
+        "signature": {
+            "step": "Signature",
+            "title": "Signature",
+            "draw": "Draw a new signature",
+            "upload": "Upload an existing signature",
+            "description": "Signature (draw with the mouse)",
+            "clear_canvas": "Clear canvas",
+            "drop": "Drop the picture here",
+            "click_or_drop": "Click or drop signature here and click 'Next'!",
+            "clear_img": "Clear image"
+        },
+        "templates": {
+            "elegant_graphics": "1 - Elegant with graphics",
+            "elegant_no_graphics": "2 - Elegant without graphics",
+            "aspiring": "3 - Aspiring"
+        }
+    },
+    "pdf_styling": {
+        "title": "Styling",
+        "template": "Template",
+        "main_color": "Main Color",
+        "contrast": "Contrast",
+        "accent_color": "Accent Color",
+        "font_color": "Font Color"
+    },
+    "pdf_gen": {
+        "download": "Download",
+        "loading": "Loading..."
+    },
+    "contact": {
+        "title": "Contact",
+        "edit": "Edit contact details",
+        "email": "E-Mail",
+        "phone": {
+            "label": "Phone",
+            "placeholder": "e.g. +41791231212"
+        },
+        "linkedin": {
+            "label": "LinkedIn",
+            "placeholder": "Profile link"
+        },
+        "github": {
+            "label": "GitHub",
+            "placeholder": "Profile link"
+        },
+        "address": "Address",
+        "street": {
+            "label": "Street",
+            "placeholder": "Street and number"
+        },
+        "zip": {
+            "label": "Zip",
+            "placeholder": "Zip code"
+        },
+        "errors": {
+            "phone_invalid": "is not a valid phone number - please use international format: +41446526249"
+        }
+    },
+    "personal": {
+        "title": "Personal",
+        "edit": "Edit personal info",
+        "dob": {
+            "label": "Date of birth",
+            "placeholder": "tt/mm/jjjj"
+        },
+        "origin": "Country of origin",
+        "permit": "Permit",
+        "permit_if": "Residence permit (if applicable)"
+    },
+    "danger": {
+        "title": "Danger Zone",
+        "warning": "Attention, this action is not reversible!",
+        "confirm": "Are you sure to delete your account?",
+        "delete_acc": "Delete Account"
+    },
+    "delete_confirmation": "Are you sure you want to delete this entry?"
+}

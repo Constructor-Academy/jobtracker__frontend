@@ -1,0 +1,18 @@
+{
+    "occupation": "Occupation",
+    "published": "Published on",
+    "tracked": "Tracked",
+    "more_info": "In order for us to give you good job suggestions, we do need some more information.",
+    "complete_profile": "Please add your skills, work experience as well as your education to your profile. With it, we can we provide you the best results.",
+    "complete_btn": "Add Profile Details",
+    "upload": "Alternatively, you can also upload a CV and get results based on this document.",
+    "or": "or",
+    "select_cv": "Select your CV",
+    "job_type": {
+        "full_time": "Full-Time",
+        "part_time": "Part-Time",
+        "contract": "Contract"
+    },
+    "no_new_jobs": "Couldn't find any jobs matching your profile, which are not older than 30 days.",
+    "backend_error": "Something went wrong, please refresh the page and try again."
+}

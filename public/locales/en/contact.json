@@ -1,0 +1,16 @@
+{
+    "title": "Contact us",
+    "name": {
+        "label": "Name",
+        "placeholder": "Your name ..."
+    },
+    "email": {
+        "label": "E-Mail",
+        "placeholder": "Your E-Mail ..."
+    },
+    "comments": {
+        "label": "Comments",
+        "placeholder": "Your comments here ..."
+    },
+    "success": "Thanks! We will back to you shortly."
+}

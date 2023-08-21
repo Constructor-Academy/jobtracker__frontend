@@ -1,0 +1,63 @@
+{
+    "dashboard": "Übersicht",
+    "hi": "Hallo",
+    "columns": {
+        "wishlist": "Wunschliste",
+        "applied": "Beworben",
+        "interview": "Vorstellungsgespräch",
+        "offered": "Angebot",
+        "accepted": "Akzeptiert",
+        "rejected": "Abgelehnt"
+    },
+    "user_types": {
+        "admin": "Admin",
+        "jobseeker": "Arbeitssuchend"
+    },
+    "current_dashboard": "Übersicht von",
+    "errors": {
+        "url": "Das URL Feld ist obligatorisch.",
+        "title": "Das Titel Feld ist obligatorisch.",
+        "company": "Das Gesellschaft Feld ist obligatorisch."
+    },
+    "jobs": {
+        "new": "+ Neuer Job",
+        "create": "Neuen Job hinzufügen",
+        "edit": "Job bearbeiten",
+        "industries": {
+            "finance": "Finanz",
+            "eudcation": "Ausbildung und Training",
+            "business_admin": "Betriebswirtschaft",
+            "marketing": "Marketing und Vertrieb",
+            "health": "Gesundheitswissenschaft",
+            "tech": "Technologie",
+            "others": "Andere"
+        },
+        "fields": {
+            "url": "URL",
+            "url_label": "Url *",
+            "url_placeholder": "Link zum Inserat",
+            "title_label": "Titel *",
+            "title_placeholder": "Gib den Titel ein ...",
+            "company": "Firma",
+            "company_label": "Firma *",
+            "company_placeholder": "Name der Firma",
+            "contact_label": "Kontakt",
+            "contact_placeholder": "Kontakt Name",
+            "industry_label": "Industrie",
+            "industry_placeholder": "Anderes",
+            "description_label": "Beschreibung",
+            "description_placeholder": "Beschreibung",
+            "notes_label": "Notizen",
+            "notes_placeholder": "Notizen"
+        },
+        "buttons": {
+            "cancel": "Zurück",
+            "add": "Job hinzufügen",
+            "edit": "Job bearbeiten",
+            "delete": "Job löschen",
+            "update": "Aktualisieren"
+        },
+        "added_on": "Hinzugefügt am",
+        "cover_letter": "Anschreiben"
+    }
+}

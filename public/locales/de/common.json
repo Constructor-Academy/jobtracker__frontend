@@ -1,0 +1,25 @@
+{
+    "forms": {
+        "first_name": "Vorname",
+        "last_name": "Nachname"
+    },
+    "update": "Aktualisieren",
+    "cancel": "Abbrechen",
+    "add": "Hinzufügen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "delete": "Löschen",
+    "generate": "Generieren",
+    "select": "Auswählen...",
+    "close": "Schliessen",
+    "not_available": "Nicht vorhanden",
+    "yes": "Ja",
+    "no": "Nein",
+    "success": "Erfolg",
+    "error": "Fehler",
+    "submit": "Absenden",
+    "errors": {
+        "network": "Die Affen, die unsere Server betreiben, sind entkommen. Versuch es erneut."
+    },
+    "under_maintenance": "In Wartung"
+}

@@ -1,0 +1,25 @@
+{
+    "forms": {
+        "first_name": "First Name",
+        "last_name": "Last Name"
+    },
+    "update": "Update",
+    "cancel": "Cancel",
+    "add": "Add",
+    "back": "Back",
+    "next": "Next",
+    "delete": "Delete",
+    "generate": "Generate",
+    "select": "Select...",
+    "close": "Close",
+    "not_available": "Not available",
+    "yes": "Yes",
+    "no": "No",
+    "success": "Success",
+    "error": "Error",
+    "submit": "Submit",
+    "errors": {
+        "network": "The monkeys powering our servers have escaped. Try again."
+    },
+    "under_maintenance": "Under maintenance"
+}

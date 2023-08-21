@@ -1,0 +1,14 @@
+{
+    "title": "Studenten-Broschüre Generator",
+    "download_btn": "Booklet Herunterladen",
+    "form": {
+        "title": {
+            "label": "Bootcamp Titel",
+            "placeholder": "z.B.: 'Full-Stack'"
+        },
+        "emails": {
+            "label": "Email Adressen (mit Komas getrennt)",
+            "placeholder": "z.B.: 'student@email.com, alumni@email.com'"
+        }
+    }
+}
