@@ -1,4 +1,4 @@
-# JobTracker Frontend
+# JobTracker - Frontend
 
 Welcome to **JobTracker Frontend**! The ultimate solution to organizing and keeping tabs on your job applications. Don't let opportunities slip through the cracks - visualize and manage the statuses of your job pursuits with ease.
 
@@ -16,7 +16,9 @@ Welcome to **JobTracker Frontend**! The ultimate solution to organizing and keep
 
 ## 📖 About this Repository
 
-You're currently viewing a snapshot from the JobTracker private repository, as of July 2023. This version is open-sourced to provide transparency, share knowledge, and invite collaboration from the developer community.
+You're currently viewing a snapshot from the JobTracker Frontend private repository, as of July 2023. This version is open-sourced to provide transparency, share knowledge, and invite collaboration from the developer community.
+
+The Backend code can be found [here](https://github.com/Constructor-Academy/jobtracker__frontend).
 
 > This project is not under very active development and most of the packages are outdated and would need an update.
 
@@ -25,7 +27,7 @@ You're currently viewing a snapshot from the JobTracker private repository, as o
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/[YourUsername]/jobtracker-frontend.git
+   git clone https://github.com/Constructor-Academy/jobtracker__frontend.git
    cd jobtracker-frontend
    ```
 
